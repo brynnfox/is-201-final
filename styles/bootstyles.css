@@ -1,0 +1,16 @@
+.tableauPlaceholder{
+    width: 300px;
+}
+
+h5{
+    color:rgb(247, 52, 172);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    color: black;
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
